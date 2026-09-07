@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Music Studio",
+  "description": "Professional music generation powered by Google's Lyria AI models. Create short clips or full-length tracks from text prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Music Generation", "Lyrics Support", "Multimodal Input"]
+}
